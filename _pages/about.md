@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to the personal website of Matteo Mastropierro"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+# Who am I?
+
+I am an Environmental Scientist by background, passionate and curios about a broad set of environmental and climate topics.
+Currently, I am a PhD candidate in Science and Management of Climate Change at Ca' Foscari University of Venice, under the supervision of Prof. Zanchettin Davide, with a thesis titled "On terrestrial carbon cycle and land-atmosphere interactions modelling".
+My actual research interests are related to the (large-scale) biogeochemical and biophysical relationship between terrestrial ecosystems and climate, with the aid of Earth System Models or Simple Climate Models.
+On another note, I am also a STC for The World Bank Group, investigating and modelling the sensitivity of health infrastructures physical accessibility to external shocks, such as floods and conflicts. The focus here is on particularly vulnerable countries, with the goal of supporting the resilience of their infrastructure investments. 
+With this respect, I am particularly interested in the opportunity given by open-source Earth-Observation and geospatial data, and analytics to provide valuable resources to support the decision making process.
+
 
 A data-driven personal website
 ======
