@@ -25,9 +25,10 @@ author:
   avatar           : "profile.jpg"
   name             : "That's me"
   pronouns         : # example: "she/her"  
-  bio              : "I am a PhD candidate in Science and Management of Climate Change at the University of Venice. My research interests lie in the domain of terrestrial carbon cycle with the aid of Earth System Models."
+  bio              : "PhD candidate in Science and Management of Climate Change"
   location         : "Milan, Italy"
-  employer         : "Ca' Foscari University, The World Bank Group"
+  employer         : "Ca' Foscari University"
+  employer         : "The World Bank Group"
   uri              : # URL
   email            : "mastropierromatteo@gmail.com" 
 
