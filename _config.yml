@@ -61,7 +61,6 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : "https://www.linkedin.com/in/matteo-mastropierro/"
-  twitter          : "https://x.com/matmastropierro"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -76,6 +75,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  twitter          : "https://x.com/matmastropierro"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
