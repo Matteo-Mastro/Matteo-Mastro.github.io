@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Welcome to the personal website of Matteo Mastropierro"
+title: "Who am I?"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Who am I?
 
 I am an Environmental Scientist by background, passionate and curios about a broad set of environmental and climate topics.
 Currently, I am a PhD candidate in Science and Management of Climate Change at Ca' Foscari University of Venice, under the supervision of Prof. Zanchettin Davide, with a thesis titled "On terrestrial carbon cycle and land-atmosphere interactions modelling".
