@@ -1,19 +1,15 @@
 # Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+**Welcome to Matteo Mastropierro personal website.**
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
-# Getting Started
+# Who am I?
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
-
-See more info at https://academicpages.github.io/
+I am an Environmental Scientist by background, passionate and curios about a broad set of environmental and climate topics.
+Currently, I am a PhD candidate in Science and Management of Climate Change at Ca' Foscari University of Venice, under the supervision of Prof. Zanchettin Davide, with a thesis titled "On terrestrial carbon cycle and land-atmosphere interactions modelling".
+My actual research interests are related to the (large-scale) biogeochemical and biophysical relationship between terrestrial ecosystems and climate, with the aid of Earth System Models or Simple Climate Models.
+On another note, I am also a STC for The World Bank Group, investigating and modelling the sensitivity of health infrastructures physical accessibility to external shocks, such as floods and conflicts. The focus here is on particularly vulnerable countries, with the goal of supporting the resilience of their infrastructure investments. 
+With this respect, I am particularly interested in the opportunity given by open-source Earth-Observation and geospatial data, and analytics to provide valuable resources to support the decision making process.
 
 ## Running locally
 
