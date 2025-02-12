@@ -1,7 +1,7 @@
 # Academic Pages
 **Welcome to Matteo Mastropierro personal website.**
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+# ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
 # Who am I?
 
