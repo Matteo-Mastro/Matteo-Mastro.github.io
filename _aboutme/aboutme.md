@@ -1,11 +1,4 @@
----
-permalink: /
-title: ""
-author_profile: true
-redirect_from: 
-  - /aboutme/
-  - /aboutme.html
----
+
 
 Born and raised in Milano, I hold a BSc and MSc degree in Environmental Sciences from the University of Milano-Bicocca, where I completed my studies in 2018 with a thesis on chemometrics. \
 Sometimes I think I could have chosen to study political economics, since I'm very interested in politics, as well as in the role that economic policies play in our daily life and overall wellbeing.
