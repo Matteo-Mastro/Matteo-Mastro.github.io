@@ -1,9 +1,10 @@
 ---
-permalink: /aboutme/
-title: "aboutme"
+layout: default
+title: ""
+permalink: /cv/
 author_profile: true
-redirect_from: 
-  - /aboutme
+redirect_from:
+  - /resume
 ---
 
 Born and raised in Milano, I hold a BSc and MSc degree in Environmental Sciences from the University of Milano-Bicocca, where I completed my studies in 2018 with a thesis on chemometrics. \
