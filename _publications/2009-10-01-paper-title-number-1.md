@@ -3,7 +3,7 @@ title: "Testing GWP* to quantify non-CO2 contributions in the carbon budget fram
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Currently under review, this is my 1$^{st}$ paper coming from my PhD research'
+excerpt: 'Currently under review, this is my first paper coming from my PhD research, deveoped in collaboration of prominent researcher from LSCE (FR) and under the supervision of Dr. Katsumasa Tanaka.'
 date: July 2023
 venue: 'npj climate and atmospheric sciences'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
