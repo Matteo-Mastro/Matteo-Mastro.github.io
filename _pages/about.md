@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Hi everybody, welcome to my website!"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+About me
+======
 
 I am an Environmental Scientist by background, passionate and curios about a broad set of environmental and climate topics.
 Currently, I am a PhD candidate in Science and Management of Climate Change at Ca' Foscari University of Venice, under the supervision of Prof. Zanchettin Davide, with a thesis titled "On terrestrial carbon cycle and land-atmosphere interactions modelling".
