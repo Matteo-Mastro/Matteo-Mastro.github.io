@@ -3,11 +3,11 @@ title: "Testing GWP* to quantify non-CO2 contributions in the carbon budget fram
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Currently under review, this is my first paper coming from my PhD research, deveoped in collaboration of prominent researcher from LSCE (FR) and under the supervision of Dr. Katsumasa Tanaka.'
-date: July 2023
+excerpt: 'This is my first paper coming from my PhD research, developed in collaboration with researchers from LSCE (FR) and under the guidance of Dr. Katsumasa Tanaka.'
+date: March 2025
 venue: 'npj climate and atmospheric sciences'
-paperurl: '[Research Square](https://www.researchsquare.com/article/rs-3206717/v1)'
-citation: 'Mastropierro, M., Tanaka, K., Melnikova, I., & Ciais, P. (2023). Testing GWP* to quantify non-CO2 contributions in the carbon budget framework: the case under overshoot scenarios.'
+paperurl: '[Nature]([https://www.researchsquare.com/article/rs-3206717/v1](https://www.nature.com/articles/s41612-025-00980-7))'
+citation: 'Mastropierro, M., Tanaka, K., Melnikova, I. et al. Testing GWP* to quantify non-CO2 contributions in the carbon budget framework in overshoot scenarios. npj Clim Atmos Sci 8, 101 (2025). https://doi.org/10.1038/s41612-025-00980-7'
 ---
 
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
