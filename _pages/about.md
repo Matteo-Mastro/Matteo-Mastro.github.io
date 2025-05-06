@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  image: /assets/images/about.jpg
 ---
 
 I am an Environmental Scientist by background, passionate and curios about a broad set of environmental and climate topics.
