@@ -13,7 +13,7 @@ Below are the (very few!) publications or submitted contributions I have.
 
 ### Testing GWP* to quantify non-CO2 contributions in the carbon budget framework in overshoot scenarios
 This is the first paper coming from my PhD research, developed during my research visiting stay at LSCE in Paris under the guidance of Dr. Katsumasa Tanaka.
-It explores the implications for the remaining carbon budget of adopting a new developed metric (GWP*) for converting $CH_{4}$ into $CO_{2}$ emissions in overshoot scenarios.
+It explores the implications for the remaining carbon budget of adopting a new developed metric (GWP-star) for converting $CH_{4}$ into $CO_{2}$ emissions in overshoot scenarios.
 **Mastropierro, M.**, Tanaka, K., Melnikova, I. et al. Testing GWP* to quantify non-CO2 contributions in the carbon budget framework in overshoot scenarios. npj Clim Atmos Sci 8, 101 (2025). [https://doi.org/10.1038/s41612-025-00980-7](https://doi.org/10.1038/s41612-025-00980-7)
 
 
