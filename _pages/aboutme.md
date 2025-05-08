@@ -8,6 +8,8 @@ redirect_from:
 classes: wide
 header:
   image: /images/lagocalvi.jpg
+  overlay_filter: "0.5"
+  caption: "Lago Calvi"
 ---
 
 Born and raised in Milano, I hold a BSc and MSc degree in Environmental Sciences from the University of Milano-Bicocca, where I completed my studies in 2018 with a thesis on chemometrics applied to riverine freshwater water pollution events detection. 

@@ -8,7 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# site_theme               : "default"
 title                    : "Personal website"
 title_separator          : "-"
 name                     : &name "Matteo Mastropierro"
@@ -305,6 +306,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-include-cache
 
 # Mimic GitHub Pages with --safe
 whitelist:
