@@ -5,9 +5,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  image: /images/lagocalvi.jpg
+# header:
+#   image: /images/lagocalvi.jpg
 ---
+![Header Image](/images/lagocalvi.jpg)
 
 I am an Environmental Scientist by training, passionate and curios about a broad set of environmental and climate topics.
 Currently, I am a PhD candidate in Science and Management of Climate Change at Ca' Foscari University of Venice, under the supervision of Prof. Zanchettin, with a thesis titled "On terrestrial carbon cycle and land-atmosphere interactions modelling". \
