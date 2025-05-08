@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 During my PhD, I have researched on three different topics related to the uncertainties surrounding the framework of the remaining carbon budget estimation. 
-With this respect, I am particularly interested in the large-scale behavior of terrestrial ecosystems properties and their evolution under changing climatic conditions. \ 
+With this respect, I am particularly interested in the large-scale behavior of terrestrial ecosystems properties and their evolution under changing climatic conditions.\
 Understanding some of the big unknowns in this scientific area will help to refine our ability to potentially predict terrestrial carbon outgassing, ecosystems state shifts and diebacks as a consequence of prolonged stress conditions.  
 
 <figure>
