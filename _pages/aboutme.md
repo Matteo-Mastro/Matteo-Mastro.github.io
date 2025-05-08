@@ -1,10 +1,11 @@
 ---
-layout: archive
+layout: single
 title: ""
 permalink: /aboutme/
 author_profile: true
 redirect_from:
   - /aboutme
+classes: wide
 header:
   image: /images/lagocalvi.jpg
 ---
