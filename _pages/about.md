@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image: /images/Lago al Calvi.jpg
+  image: /images/lagocalvi.jpg
 ---
 
 I am an Environmental Scientist by training, passionate and curios about a broad set of environmental and climate topics.
