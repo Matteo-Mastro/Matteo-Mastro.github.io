@@ -1,12 +1,10 @@
 source 'https://rubygems.org'
 
-group :jekyll_plugins do
-  gem 'jekyll'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
-  gem 'jemoji'
-  gem 'webrick', '~> 1.8'
-end
+gem 'github-pages', group: :jekyll_plugins
 
-gem 'github-pages'
+# These are already included in github-pages, so no need to list separately:
+# gem 'jekyll'
+# gem 'jekyll-feed'
+# gem 'jekyll-sitemap'
+# gem 'jemoji'
+# gem 'webrick' <-- only needed for local development on Ruby 3.x
