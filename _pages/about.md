@@ -36,4 +36,12 @@ Geospatial applications
 
 Tools and expertise
 ======
+- My main tool is **Python**, where I am proficient in the main numerical, geospatial and visualization libraries (e.g., numpy; scipy; Scikit-learn; pandas; geopandas; rasterio). \
+I am also familiar with **Bash** scripting, and to a less extent with **R**. \
+I started using **git** for code sharing and version control 2 years ago, and I am now starting to gain proficiency with GitHub. \
+Good knowledge of **Q-gis** (and **ArcGIS**)
+
+- I have a strong inter- and multidisciplinary approach to environmental and socio-economic challenges, which I believe is my main asset. \
+During my PhD I delved deeper in the domain of land-climate interactions, particularly in the large-scale biogeochemical and biophysical properties regulating the exchange of carbon and energy between terrestrial ecosystems and the atmosphere. \
+I have mainly used Earth System Models (ESMs) simulations output to study the response of tropical ecosystems under climate change. \
 

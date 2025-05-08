@@ -8,7 +8,6 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 # site_theme               : "default"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "default," "dirt", "neon", "mint", "plum", "sunrise"
 
 # Basic Site Settings
 locale                   : "en-US"
