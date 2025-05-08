@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Science and Management of Climate Change, April 2025 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Science and Management of Climate Change, April 2025
+* M.S. in Environmental Sciences, University of Milano-Bicocca, 2018
+* B.S. in Environmental Sciences, University of Milano-Bicocca, 2012
 
 Work experience
 ======

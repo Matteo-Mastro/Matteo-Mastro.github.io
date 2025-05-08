@@ -9,8 +9,8 @@ header:
   image: /images/Lago al Calvi.jpg
 ---
 
-I am an Environmental Scientist by background, passionate and curios about a broad set of environmental and climate topics.
-Currently, I am a PhD candidate in Science and Management of Climate Change at Ca' Foscari University of Venice, under the supervision of Prof. Zanchettin Davide, with a thesis titled "On terrestrial carbon cycle and land-atmosphere interactions modelling".
+I am an Environmental Scientist by training, passionate and curios about a broad set of environmental and climate topics.
+Currently, I am a PhD candidate in Science and Management of Climate Change at Ca' Foscari University of Venice, under the supervision of Prof. Zanchettin, with a thesis titled "On terrestrial carbon cycle and land-atmosphere interactions modelling". \
 My actual research interests are related to the (large-scale) biogeochemical and biophysical relationship between terrestrial ecosystems and climate, with the aid of Earth System Models or Simple Climate Models.
 
 On another note, I am also a Short Term Consultant for The World Bank Group, investigating and modelling the sensitivity of health infrastructures physical accessibility to external shocks, such as floods and conflicts. The focus here is on vulnerable countries, with the goal of supporting the resilience of their infrastructure investments. 
