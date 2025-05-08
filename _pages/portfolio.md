@@ -12,7 +12,7 @@ Although I am not a very experienced and skilled programmer, and my code is most
 
 These three tutorials have been used for a practical introductory lesson on climate data analysis for an undergraduate "Atmospheric and Climate Physics" course (A.Y. 2024/2025) and a M.Sc. "Geophysics and Cultural Heritage" course (A.Y. 2022/2023 and 2023/2024) at the University of Venice:
 
-[Climate Data Tutorial 1](/assets/portfolio/Climate_Data_Lesson_Part1.ipynb) \
-[Climate Data Tutorial 2](/assets/portfolio/Climate_Data_Lesson_Part2.ipynb) \
-[Climate Data Tutorial 3](/assets/portfolio/Climate_Data_Lesson_Part3.ipynb)
+[Climate Data Tutorial 1](/assets/portfolio/Climate_Data_Lesson_Part1.html) \
+[Climate Data Tutorial 2](/assets/portfolio/Climate_Data_Lesson_Part2.html) \
+[Climate Data Tutorial 3](/assets/portfolio/Climate_Data_Lesson_Part3.html)
 

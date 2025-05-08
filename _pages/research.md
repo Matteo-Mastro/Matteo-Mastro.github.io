@@ -9,10 +9,9 @@ During my PhD, I have researched on three different topics related to the uncert
 With this respect, I am particularly interested in the large-scale behavior of terrestrial ecosystems properties and their evolution under changing climatic conditions.\
 Understanding some of the big unknowns in this scientific area will help to refine our ability to potentially predict terrestrial carbon outgassing, ecosystems state shifts and diebacks as a consequence of prolonged stress conditions.  
 
-<figure>
-  <img src="{{ '/images/tcre.jpg' | relative_url }}" alt="TCRE factors">
-  <figcaption>Uncertainty factors affecting the TCRE. From Damon Matthews et al., (2020).</figcaption>
-</figure>
+![Uncertainty factors affecting the TCRE]({{ '/images/tcre.jpg' | relative_url }})
+*Uncertainty factors affecting the TCRE. From Damon Matthews et al., (2020).*
+
 
 
 ## Publications
